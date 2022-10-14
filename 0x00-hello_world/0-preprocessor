@@ -1,2 +1,3 @@
 #!/bin/bash
-gcc -c $CFILE $FILE
+gcc -E $CFILE -o c
+Save and quit
